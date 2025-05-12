@@ -1,0 +1,5 @@
+# Fraudulent transaction due to IP mismatch
+login ivan 901234 203.0.113.1
+login judy 012345 203.0.113.2
+place 04:04:04:04:04:06 203.0.113.3 ivan judy 100 04:04:04:04:04:07 o
+$$$

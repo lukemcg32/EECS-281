@@ -1,0 +1,19 @@
+M
+3
+4
+// No path to the hangar scenario
+// level 0
+S..#
+##E#
+###H
+####
+// level 1
+....
+..E.
+....
+....
+// level 2
+....
+....
+....
+...H

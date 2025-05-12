@@ -1,0 +1,4 @@
+# Attempt self-transaction
+login heidi 890123 192.168.2.1
+place 03:03:03:03:03:05 192.168.2.1 heidi heidi 100 03:03:03:03:03:06 o
+$$$

@@ -1,0 +1,59 @@
+User alice logged in.
+User bob logged in.
+User carol logged in.
+User dave logged in.
+User eve logged in.
+User frank logged in.
+User grace logged in.
+User heidi logged in.
+Transaction 0 placed at 111111111120: $5000 from alice to bob at 111111111130.
+Transaction 1 placed at 111111111121: $3000 from bob to carol at 111111111131.
+Transaction 2 placed at 111111111122: $2000 from carol to dave at 111111111132.
+Transaction 3 placed at 111111111123: $1000 from dave to eve at 111111111133.
+Transaction 4 placed at 111111111124: $4000 from eve to frank at 111111111134.
+Transaction 5 placed at 111111111125: $6000 from frank to grace at 111111111135.
+Transaction 6 placed at 111111111126: $7000 from grace to heidi at 111111111136.
+Transaction 7 placed at 111111111127: $8000 from heidi to alice at 111111111137.
+User dave logged out.
+User grace logged out.
+Fraudulent transaction detected, aborting request.
+As of 111111111127, alice has a balance of $10000.
+Transaction 8 placed at 111111111128: $1000 from bob to alice at 111111111138.
+Transaction 0 executed at 111111111130: $5000 from alice to bob.
+Transaction 1 executed at 111111111131: $3000 from bob to carol.
+Transaction 2 executed at 111111111132: $2000 from carol to dave.
+Transaction 3 executed at 111111111133: $1000 from dave to eve.
+Transaction 4 executed at 111111111134: $4000 from eve to frank.
+Transaction 5 executed at 111111111135: $6000 from frank to grace.
+Transaction 6 executed at 111111111136: $7000 from grace to heidi.
+Transaction 7 executed at 111111111137: $8000 from heidi to alice.
+Transaction 8 executed at 111111111138: $1000 from bob to alice.
+Customer alice account summary:
+Balance: $13910
+Total # of transactions: 3
+Incoming 2:
+7: heidi sent 8000 dollars to alice at 111111111137.
+8: bob sent 1000 dollars to alice at 111111111138.
+Outgoing 1:
+0: alice sent 5000 dollars to bob at 111111111130.
+281Bank has collected 370 dollars in fees over 20 seconds.
+0: alice sent 5000 dollars to bob at 111111111130.
+1: bob sent 3000 dollars to carol at 111111111131.
+2: carol sent 2000 dollars to dave at 111111111132.
+3: dave sent 1000 dollars to eve at 111111111133.
+4: eve sent 4000 dollars to frank at 111111111134.
+5: frank sent 6000 dollars to grace at 111111111135.
+6: grace sent 7000 dollars to heidi at 111111111136.
+7: heidi sent 8000 dollars to alice at 111111111137.
+There were 8 transactions that were placed between time 111111111130 to 111111111138.
+Summary of [111111000000, 111112000000):
+0: alice sent 5000 dollars to bob at 111111111130.
+1: bob sent 3000 dollars to carol at 111111111131.
+2: carol sent 2000 dollars to dave at 111111111132.
+3: dave sent 1000 dollars to eve at 111111111133.
+4: eve sent 4000 dollars to frank at 111111111134.
+5: frank sent 6000 dollars to grace at 111111111135.
+6: grace sent 7000 dollars to heidi at 111111111136.
+7: heidi sent 8000 dollars to alice at 111111111137.
+8: bob sent 1000 dollars to alice at 111111111138.
+There were a total of 9 transactions, 281Bank has collected 370 dollars in fees.

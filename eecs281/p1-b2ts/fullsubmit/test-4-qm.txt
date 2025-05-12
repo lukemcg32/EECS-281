@@ -1,0 +1,19 @@
+M
+3
+4
+// Test with obstacles
+.S#.
+.#..
+...#
+...E
+// level 1
+....
+....
+.#..
+...E
+// level 2
+// extra comment line
+####
+####
+##..
+#H.E

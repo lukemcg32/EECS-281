@@ -1,0 +1,19 @@
+M
+2
+7
+// Complex use of elevators between levels
+S....E.
+......E
+.###...
+E......
+.......
+.E.....
+.....H.
+// Secondary level testing incorrect elevator alignments
+.......
+......#
+......#
+......E
+......#
+.E....#
+......#
